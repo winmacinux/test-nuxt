@@ -7,7 +7,9 @@
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vue-cli-plugin-vuetify": "0.1.6"
+  },
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
   }
